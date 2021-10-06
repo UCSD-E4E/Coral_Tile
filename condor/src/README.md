@@ -1,0 +1,6 @@
+Source
+--------
+All the files for running the code. 
+- lib: external libraries for things like tcp, dns, etc...
+- drivers: custom drivers for stuff like lcd, etc...
+
