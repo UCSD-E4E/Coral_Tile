@@ -5,7 +5,7 @@ This Repo holds the firmware for the ESP32 WiFi chip as well as the ATMega168p/3
 
 ## Structure
 
-'''
+'''bash
 Coral_Tile
 ├── condor
 │   ├── examples
