@@ -1,5 +1,11 @@
 
 
 .DS_Store
+**.bin
+**.zip
+**.tar.gz
+**.png
+**.jpg
+**.jpeg
 
 
